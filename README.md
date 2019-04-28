@@ -1,2 +1,2 @@
 # E-Commerce
-Java,Spring,Hibernate and MySQL
+Java, Spring, Hibernate and MySQL
